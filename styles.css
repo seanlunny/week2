@@ -19,4 +19,5 @@ td {
 }
 .tr:hover {
   background-color: gray;
+  border: solid black;
 }
